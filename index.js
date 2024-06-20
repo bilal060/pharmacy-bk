@@ -1,4 +1,5 @@
 const express = require('express')
+var cors = require('cors')
 const mongoose = require('mongoose')
 const morgan = require('morgan')
 const globalErrorHandler = require('./Controllers/errorController');
@@ -9,11 +10,9 @@ const clinicRoutes = require('./Routes/clinicRoutes');
 const userRoutes = require('./Routes/userRoutes');
 
 const app = express()
-
+app.use(cors())
 const dotenv = require('dotenv')
 dotenv.config({ path: '.env' })
-
-
 app.use(express.json())
 app.use('/api/v1/drug', drugRoutes);
 app.use('/api/v1/ddi', ddiRoutes);
