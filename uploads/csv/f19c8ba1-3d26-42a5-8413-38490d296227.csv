@@ -1,0 +1,97 @@
+ICD Code,ShortDesc,LongDesc,Benefit Group,Benefit Code
+K29.61,Other gastritis with bleeding,Other gastritis with bleeding,ACUTE,PX
+E87.2,Acidosis,Acidosis,ACUTE,PX
+H10.021,"Other mucopurulent conjunctivitis, right eye","Other mucopurulent conjunctivitis, right eye",ACUTE,PX
+H65.02,"Acute serous otitis media, left ear","Acute serous otitis media, left ear",ACUTE,PX
+J01.81,Other acute recurrent sinusitis,Other acute recurrent sinusitis,ACUTE,PX
+J02.9,"Acute pharyngitis, unspecified","Acute pharyngitis, unspecified",ACUTE,PX
+J06.0,Acute laryngopharyngitis,Acute laryngopharyngitis,ACUTE,PX
+J22,Unspecified acute lower respiratory infection,Unspecified acute lower respiratory infection,ACUTE,PX
+J30.0,Vasomotor rhinitis,Vasomotor rhinitis,ACUTE,PX
+J30.89,Other allergic rhinitis,Other allergic rhinitis,ACUTE,PX
+J30.9,"Allergic rhinitis, unspecified","Allergic rhinitis, unspecified",ACUTE,PX
+K29.00,Acute gastritis without bleeding,Acute gastritis without bleeding,ACUTE,PX
+K29.60,Other gastritis without bleeding,Other gastritis without bleeding,ACUTE,PX
+K29.70,"Gastritis, unspecified, without bleeding","Gastritis, unspecified, without bleeding",ACUTE,PX
+K76.0,"Fatty (change of) liver, not elsewhere classified","Fatty (change of) liver, not elsewhere classified",ACUTE,PX
+L50.1,Idiopathic urticaria,Idiopathic urticaria,ACUTE,PX
+L72.0,Epidermal cyst,Epidermal cyst,ACUTE,PX
+M54.5,Low back pain,Low back pain,ACUTE,PX
+R50.9,"Fever, unspecified","Fever, unspecified",ACUTE,PX
+R68.83,Chills (without fever),Chills (without fever),ACUTE,PX
+R94.5,Abnormal results of liver function studies,Abnormal results of liver function studies,ACUTE,PX
+K27.0,"Acute peptic ulcer, site unspecified, with hemorrhage","Acute peptic ulcer, site unspecified, with hemorrhage",CHRONIC,CH
+K27.1,"Acute peptic ulcer, site unspecified, with perforation","Acute peptic ulcer, site unspecified, with perforation",CHRONIC,CH
+K27.4,"Chronic or unsp peptic ulcer, site unsp, with hemorrhage","Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage",CHRONIC,CH
+K27.5,"Chronic or unsp peptic ulcer, site unsp, with perforation","Chronic or unspecified peptic ulcer, site unspecified, with perforation",CHRONIC,CH
+K27.7,"Chronic peptic ulcer, site unsp, w/o hemorrhage or perf","Chronic peptic ulcer, site unspecified, without hemorrhage or perforation",CHRONIC,CH
+K27.9,"Peptic ulc, site unsp, unsp as ac or chr, w/o hemor or perf","Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",CHRONIC,CH
+J45.50,"Severe persistent asthma, uncomplicated","Severe persistent asthma, uncomplicated",CHRONIC,CH
+C16.5,"Malignant neoplasm of lesser curvature of stomach, unsp","Malignant neoplasm of lesser curvature of stomach, unspecified",CHRONIC,CH
+C16.6,"Malignant neoplasm of greater curvature of stomach, unsp","Malignant neoplasm of greater curvature of stomach, unspecified",CHRONIC,CH
+C73,Malignant neoplasm of thyroid gland,Malignant neoplasm of thyroid gland,CHRONIC,CH
+E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,Type 1 diabetes mellitus with ketoacidosis without coma,CHRONIC,CH
+E10.8,Type 1 diabetes mellitus with unspecified complications,Type 1 diabetes mellitus with unspecified complications,CHRONIC,CH
+E10.9,Type 1 diabetes mellitus without complications,Type 1 diabetes mellitus without complications,CHRONIC,CH
+E11.10,Type 2 diabetes mellitus with ketoacidosis without coma,Type 2 diabetes mellitus with ketoacidosis without coma,CHRONIC,CH
+E11.21,Type 2 diabetes mellitus with diabetic nephropathy,Type 2 diabetes mellitus with diabetic nephropathy,CHRONIC,CH
+E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, unsp","Type 2 diabetes mellitus with diabetic neuropathy, unspecified",CHRONIC,CH
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy,Type 2 diabetes mellitus with diabetic polyneuropathy,CHRONIC,CH
+E11.65,Type 2 diabetes mellitus with hyperglycemia,Type 2 diabetes mellitus with hyperglycemia,CHRONIC,CH
+E75.5,Other lipid storage disorders,Other lipid storage disorders,CHRONIC,CH
+E78.00,"Pure hypercholesterolemia, unspecified","Pure hypercholesterolemia, unspecified",CHRONIC,CH
+E78.2,Mixed hyperlipidemia,Mixed hyperlipidemia,CHRONIC,CH
+E78.4,Other hyperlipidemia,Other hyperlipidemia,CHRONIC,CH
+E78.49,Other hyperlipidemia,Other hyperlipidemia,CHRONIC,CH
+E78.5,"Hyperlipidemia, unspecified","Hyperlipidemia, unspecified",CHRONIC,CH
+E78.79,Other disorders of bile acid and cholesterol metabolism,Other disorders of bile acid and cholesterol metabolism,CHRONIC,CH
+G46.4,Cerebellar stroke syndrome,Cerebellar stroke syndrome,CHRONIC,CH
+I10,Essential (primary) hypertension,Essential (primary) hypertension,CHRONIC,CH
+I15.9,"Secondary hypertension, unspecified","Secondary hypertension, unspecified",CHRONIC,CH
+I25.110,Athscl heart disease of native cor art w unstable ang pctrs,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,CHRONIC,CH
+I45.81,Long QT syndrome,Long QT syndrome,CHRONIC,CH
+J32.0,Chronic maxillary sinusitis,Chronic maxillary sinusitis,CHRONIC,CH
+J32.8,Other chronic sinusitis,Other chronic sinusitis,CHRONIC,CH
+K29.40,Chronic atrophic gastritis without bleeding,Chronic atrophic gastritis without bleeding,CHRONIC,CH
+K29.50,Unspecified chronic gastritis without bleeding,Unspecified chronic gastritis without bleeding,CHRONIC,CH
+K74.60,Unspecified cirrhosis of liver,Unspecified cirrhosis of liver,CHRONIC,CH
+K74.69,Other cirrhosis of liver,Other cirrhosis of liver,CHRONIC,CH
+K76.9,"Liver disease, unspecified","Liver disease, unspecified",CHRONIC,CH
+M05.629,Rheu arthritis of unsp elbow w involv of organs and systems,Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems,CHRONIC,CH
+M05.662,Rheu arthritis of left knee w involv of organs and systems,Rheumatoid arthritis of left knee with involvement of other organs and systems,CHRONIC,CH
+N40.0,Benign prostatic hyperplasia without lower urinry tract symp,Benign prostatic hyperplasia without lower urinary tract symptoms,CHRONIC,CH
+N40.1,Benign prostatic hyperplasia with lower urinary tract symp,Benign prostatic hyperplasia with lower urinary tract symptoms,CHRONIC,CH
+N41.1,Chronic prostatitis,Chronic prostatitis,CHRONIC,CH
+N41.8,Other inflammatory diseases of prostate,Other inflammatory diseases of prostate,CHRONIC,CH
+N42.30,Unspecified dysplasia of prostate,Unspecified dysplasia of prostate,CHRONIC,CH
+N42.31,Prostatic intraepithelial neoplasia,Prostatic intraepithelial neoplasia,CHRONIC,CH
+Z99.2,Dependence on renal dialysis,Dependence on renal dialysis,CHRONIC,CH
+K01.1,Impacted teeth,Impacted teeth,DENTAL,DT
+K02.7,Dental root caries,Dental root caries,DENTAL,DT
+K02.9,"Dental caries, unspecified","Dental caries, unspecified",DENTAL,DT
+K05.01,"Acute gingivitis, non-plaque induced","Acute gingivitis, non-plaque induced",DENTAL,DT
+K05.30,"Chronic periodontitis, unspecified","Chronic periodontitis, unspecified",DENTAL,DT
+K05.4,Periodontosis,Periodontosis,DENTAL,DT
+K05.5,Other periodontal diseases,Other periodontal diseases,DENTAL,DT
+A54.84,Gonococcal pneumonia,Gonococcal pneumonia,EXCLUSION,EX
+A54.9,"Gonococcal infection, unspecified","Gonococcal infection, unspecified",EXCLUSION,EX
+A65,Nonvenereal syphilis,Nonvenereal syphilis,EXCLUSION,EX
+B20,Human immunodeficiency virus [HIV] disease,Human immunodeficiency virus [HIV] disease,EXCLUSION,EX
+E66.9,"Obesity, unspecified","Obesity, unspecified",EXCLUSION,EX
+L63.9,"Alopecia areata, unspecified","Alopecia areata, unspecified",EXCLUSION,EX
+L65.8,Other specified nonscarring hair loss,Other specified nonscarring hair loss,EXCLUSION,EX
+L70.0,Acne vulgaris,Acne vulgaris,EXCLUSION,EX
+Z98.84,Bariatric surgery status,Bariatric surgery status,EXCLUSION,EX
+O99.019,"Anemia complicating pregnancy, unspecified trimester","Anemia complicating pregnancy, unspecified trimester",MAT,MT
+Z34.80,"Encounter for suprvsn of normal pregnancy, unsp trimester","Encounter for supervision of other normal pregnancy, unspecified trimester",MAT,MT
+Z34.82,"Encounter for suprvsn of normal pregnancy, second trimester","Encounter for supervision of other normal pregnancy, second trimester",MAT,MT
+Z34.83,"Encounter for suprvsn of normal pregnancy, third trimester","Encounter for supervision of other normal pregnancy, third trimester",MAT,MT
+O12.00,"Gestational edema, unspecified trimester","Gestational edema, unspecified trimester",MAT,MT
+O99.011,"Anemia complicating pregnancy, first trimester","Anemia complicating pregnancy, first trimester",MAT,MT
+Z34.81,"Encounter for suprvsn of normal pregnancy, first trimester","Encounter for supervision of other normal pregnancy, first trimester",MAT,MT
+F25.1,"Schizoaffective disorder, depressive type","Schizoaffective disorder, depressive type",PSYCH,PS
+F32.89,Other specified depressive episodes,Other specified depressive episodes,PSYCH,PS
+F33.1,"Major depressive disorder, recurrent, moderate","Major depressive disorder, recurrent, moderate",PSYCH,PS
+F33.8,Other recurrent depressive disorders,Other recurrent depressive disorders,PSYCH,PS
+F33.9,"Major depressive disorder, recurrent, unspecified","Major depressive disorder, recurrent, unspecified",PSYCH,PS
+F53.0,Postpartum depression,Postpartum depression,PSYCH,PS

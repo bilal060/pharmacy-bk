@@ -1,0 +1,4422 @@
+[
+    {
+      "familyCode": "0834-0A3-04A-05001",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "3546-027-04A-0101E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "3546-027-04A-0201E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0101C",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0201C",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "2583-027-04A-01064",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "2583-027-04A-02064",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "2583-027-04A-0201E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-01064",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0401C",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0101E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0200A",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0100A",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-027-04A-0201E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-122-04A-0201E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-122-04A-0101E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "2583-027-04A-0101E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-075-04A-0201E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-075-04A-0101E",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-075-04A-02064",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0834-075-04A-01064",
+      "icdCode": "I45.81"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0716-094-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0716-061-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0716-006-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "2850-091-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-0101C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-075-04A-0201C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-075-04A-0203C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-0201C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-0201E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-02096",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-01064",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-027-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1428-075-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "2850-006-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1197-027-04A-0101E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0201E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0301E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-02064",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-03064",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0401E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0501E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0201C",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0301C",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0101C",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0401C",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-075-04A-0401E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-075-04A-0101E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "2182-027-04A-0101E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "2182-027-04A-0201E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "2182-027-04A-0301E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "2182-075-04A-0301E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "2182-075-04A-0201E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "2182-075-04A-0101E",
+      "icdCode": "K74.60"
+    },
+    {
+      "familyCode": "1197-027-04A-0101E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0201E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0301E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-02064",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-03064",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0401E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0501E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0201C",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0301C",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0101C",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0401C",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-075-04A-0401E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-075-04A-0101E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "2182-027-04A-0101E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "2182-027-04A-0201E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "2182-027-04A-0301E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "2182-075-04A-0301E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "2182-075-04A-0201E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "2182-075-04A-0101E",
+      "icdCode": "K74.69"
+    },
+    {
+      "familyCode": "1197-027-04A-0101E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0201E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0301E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-02064",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-03064",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0401E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0501E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0201C",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0301C",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0101C",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0401C",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-075-04A-0401E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-075-04A-0101E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "2182-027-04A-0101E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "2182-027-04A-0201E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "2182-027-04A-0301E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "2182-075-04A-0301E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "2182-075-04A-0201E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "2182-075-04A-0101E",
+      "icdCode": "K76.0"
+    },
+    {
+      "familyCode": "1197-027-04A-0101E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0201E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0301E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-02064",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-03064",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0401E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0501E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0201C",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0301C",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0101C",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0401C",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-075-04A-0401E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-075-04A-0101E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "2182-027-04A-0101E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "2182-027-04A-0201E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "2182-027-04A-0301E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "2182-075-04A-0301E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "2182-075-04A-0201E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "2182-075-04A-0101E",
+      "icdCode": "K76.9"
+    },
+    {
+      "familyCode": "1197-027-04A-0101E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0201E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0301E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-02064",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-03064",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0401E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0501E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0201C",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0301C",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0101C",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-027-04A-0401C",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-075-04A-0401E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1197-075-04A-0101E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "2182-027-04A-0101E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "2182-027-04A-0201E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "2182-027-04A-0301E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "2182-075-04A-0301E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "2182-075-04A-0201E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "2182-075-04A-0101E",
+      "icdCode": "R94.5"
+    },
+    {
+      "familyCode": "1623-066-059-01002",
+      "icdCode": "C73"
+    },
+    {
+      "familyCode": "1623-066-059-01002",
+      "icdCode": "E10.10"
+    },
+    {
+      "familyCode": "1623-066-059-01002",
+      "icdCode": "E10.8"
+    },
+    {
+      "familyCode": "1623-066-059-01002",
+      "icdCode": "E10.9"
+    },
+    {
+      "familyCode": "1623-066-059-01002",
+      "icdCode": "E11.10"
+    },
+    {
+      "familyCode": "0928-027-04A-0101E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0201E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-03030",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-03032",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-031F4",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-03032",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-011F4",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-01032",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0103C",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-0401E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-0301E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-01038",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-03054",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-0101E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-0301E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-075-04A-0201E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-03014",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0301E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0301E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-0201E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-08A-04A-07001",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-01258",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-02258",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0401E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0403C",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-03038",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-04038",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-02038",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0201E",
+      "icdCode": "E87.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0101E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0201E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-03030",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-03032",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-031F4",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-03032",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-011F4",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-01032",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0103C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-0401E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-0301E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-01038",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-03054",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-0101E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-0301E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-075-04A-0201E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-03014",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-0301E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0301E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-0201E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-08A-04A-07001",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-01258",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-027-04A-02258",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0401E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0403C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-03038",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-04038",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-0DB-04A-02038",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0928-024-04A-0201E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "O12.00"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "O99.011"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "Z34.81"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "1013-027-04A-0101C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1013-027-04A-0201C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1013-027-04A-0301C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1013-027-04A-0401C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0701C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0301C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0201C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0101C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0501C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0601C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1949-027-04A-0801C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K27.0"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K27.1"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K27.4"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K27.5"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K27.7"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K27.9"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "K29.61"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "O99.019"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "Z34.80"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "Z34.82"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "Z34.83"
+    },
+    {
+      "familyCode": "0610-066-033-12004",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-064-035-18001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-066-033-20005",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-064-033-21014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-064-033-18001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-02018",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-01018",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-020FA",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-011F4",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-01019",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-01064",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-03014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-021F4",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-02014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-01014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-031F4",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-03014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-06F-04A-04001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-02014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-091-04A-0701E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-0201E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-02032",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-0F2-04A-04001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-03032",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-01032",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-01014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-0101E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-0101E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-013E8",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-021F4",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-074-04A-04001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-094-04A-01010",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-023E8",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-03028",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-030FA",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-020F0",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-023E8",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-010FA",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-013E8",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-0301E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-0201E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-02064",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-03064",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-006-04A-02032",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-019-04A-03014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-00B-04A-01032",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-00B-04A-01018",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-094-04A-01020",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-027-04A-0301E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-072-04A-05014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-0F0-04A-01018",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-02078",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-019-04A-0301E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-061-04A-02014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-075-04A-0200F",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-0A3-04A-09001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-024-04A-0301E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-0D2-04A-04001",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-061-04A-0301E",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "0610-006-04A-02014",
+      "icdCode": "J45.50"
+    },
+    {
+      "familyCode": "1314-027-04A-0100E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-050-033-0100A",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-027-04A-0200E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-027-04A-0101C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-027-04A-0201C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-02E-04A-0301C",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-027-04A-01007",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-091-04A-02069",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-091-04A-0200E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-091-04A-01069",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-091-04A-0100E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-09C-04A-0200E",
+      "icdCode": "Z99.2"
+    },
+    {
+      "familyCode": "1314-09C-04A-0100E",
+      "icdCode": "Z99.2"
+    }
+  ]

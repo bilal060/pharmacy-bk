@@ -1,0 +1,674 @@
+[
+    {
+      "icdCode": "K29.61",
+      "shortDesc": "Other gastritis with bleeding",
+      "longDesc": "Other gastritis with bleeding",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "E87.2",
+      "shortDesc": "Acidosis",
+      "longDesc": "Acidosis",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "H10.021",
+      "shortDesc": "Other mucopurulent conjunctivitis, right eye",
+      "longDesc": "Other mucopurulent conjunctivitis, right eye",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "H65.02",
+      "shortDesc": "Acute serous otitis media, left ear",
+      "longDesc": "Acute serous otitis media, left ear",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J01.81",
+      "shortDesc": "Other acute recurrent sinusitis",
+      "longDesc": "Other acute recurrent sinusitis",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J02.9",
+      "shortDesc": "Acute pharyngitis, unspecified",
+      "longDesc": "Acute pharyngitis, unspecified",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J06.0",
+      "shortDesc": "Acute laryngopharyngitis",
+      "longDesc": "Acute laryngopharyngitis",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J22",
+      "shortDesc": "Unspecified acute lower respiratory infection",
+      "longDesc": "Unspecified acute lower respiratory infection",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J30.0",
+      "shortDesc": "Vasomotor rhinitis",
+      "longDesc": "Vasomotor rhinitis",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J30.89",
+      "shortDesc": "Other allergic rhinitis",
+      "longDesc": "Other allergic rhinitis",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "J30.9",
+      "shortDesc": "Allergic rhinitis, unspecified",
+      "longDesc": "Allergic rhinitis, unspecified",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "K29.00",
+      "shortDesc": "Acute gastritis without bleeding",
+      "longDesc": "Acute gastritis without bleeding",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "K29.60",
+      "shortDesc": "Other gastritis without bleeding",
+      "longDesc": "Other gastritis without bleeding",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "K29.70",
+      "shortDesc": "Gastritis, unspecified, without bleeding",
+      "longDesc": "Gastritis, unspecified, without bleeding",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "K76.0",
+      "shortDesc": "Fatty (change of) liver, not elsewhere classified",
+      "longDesc": "Fatty (change of) liver, not elsewhere classified",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "L50.1",
+      "shortDesc": "Idiopathic urticaria",
+      "longDesc": "Idiopathic urticaria",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "L72.0",
+      "shortDesc": "Epidermal cyst",
+      "longDesc": "Epidermal cyst",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "M54.5",
+      "shortDesc": "Low back pain",
+      "longDesc": "Low back pain",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "R50.9",
+      "shortDesc": "Fever, unspecified",
+      "longDesc": "Fever, unspecified",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "R68.83",
+      "shortDesc": "Chills (without fever)",
+      "longDesc": "Chills (without fever)",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "R94.5",
+      "shortDesc": "Abnormal results of liver function studies",
+      "longDesc": "Abnormal results of liver function studies",
+      "benefitGroup": "ACUTE",
+      "benefitCode": "PX"
+    },
+    {
+      "icdCode": "K27.0",
+      "shortDesc": "Acute peptic ulcer, site unspecified, with hemorrhage",
+      "longDesc": "Acute peptic ulcer, site unspecified, with hemorrhage",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K27.1",
+      "shortDesc": "Acute peptic ulcer, site unspecified, with perforation",
+      "longDesc": "Acute peptic ulcer, site unspecified, with perforation",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K27.4",
+      "shortDesc": "Chronic or unsp peptic ulcer, site unsp, with hemorrhage",
+      "longDesc": "Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K27.5",
+      "shortDesc": "Chronic or unsp peptic ulcer, site unsp, with perforation",
+      "longDesc": "Chronic or unspecified peptic ulcer, site unspecified, with perforation",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K27.7",
+      "shortDesc": "Chronic peptic ulcer, site unsp, w/o hemorrhage or perf",
+      "longDesc": "Chronic peptic ulcer, site unspecified, without hemorrhage or perforation",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K27.9",
+      "shortDesc": "Peptic ulc, site unsp, unsp as ac or chr, w/o hemor or perf",
+      "longDesc": "Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "J45.50",
+      "shortDesc": "Severe persistent asthma, uncomplicated",
+      "longDesc": "Severe persistent asthma, uncomplicated",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "C16.5",
+      "shortDesc": "Malignant neoplasm of lesser curvature of stomach, unsp",
+      "longDesc": "Malignant neoplasm of lesser curvature of stomach, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "C16.6",
+      "shortDesc": "Malignant neoplasm of greater curvature of stomach, unsp",
+      "longDesc": "Malignant neoplasm of greater curvature of stomach, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "C73",
+      "shortDesc": "Malignant neoplasm of thyroid gland",
+      "longDesc": "Malignant neoplasm of thyroid gland",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E10.10",
+      "shortDesc": "Type 1 diabetes mellitus with ketoacidosis without coma",
+      "longDesc": "Type 1 diabetes mellitus with ketoacidosis without coma",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E10.8",
+      "shortDesc": "Type 1 diabetes mellitus with unspecified complications",
+      "longDesc": "Type 1 diabetes mellitus with unspecified complications",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E10.9",
+      "shortDesc": "Type 1 diabetes mellitus without complications",
+      "longDesc": "Type 1 diabetes mellitus without complications",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E11.10",
+      "shortDesc": "Type 2 diabetes mellitus with ketoacidosis without coma",
+      "longDesc": "Type 2 diabetes mellitus with ketoacidosis without coma",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E11.21",
+      "shortDesc": "Type 2 diabetes mellitus with diabetic nephropathy",
+      "longDesc": "Type 2 diabetes mellitus with diabetic nephropathy",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E11.40",
+      "shortDesc": "Type 2 diabetes mellitus with diabetic neuropathy, unsp",
+      "longDesc": "Type 2 diabetes mellitus with diabetic neuropathy, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E11.42",
+      "shortDesc": "Type 2 diabetes mellitus with diabetic polyneuropathy",
+      "longDesc": "Type 2 diabetes mellitus with diabetic polyneuropathy",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E11.65",
+      "shortDesc": "Type 2 diabetes mellitus with hyperglycemia",
+      "longDesc": "Type 2 diabetes mellitus with hyperglycemia",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E75.5",
+      "shortDesc": "Other lipid storage disorders",
+      "longDesc": "Other lipid storage disorders",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E78.00",
+      "shortDesc": "Pure hypercholesterolemia, unspecified",
+      "longDesc": "Pure hypercholesterolemia, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E78.2",
+      "shortDesc": "Mixed hyperlipidemia",
+      "longDesc": "Mixed hyperlipidemia",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E78.4",
+      "shortDesc": "Other hyperlipidemia",
+      "longDesc": "Other hyperlipidemia",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E78.49",
+      "shortDesc": "Other hyperlipidemia",
+      "longDesc": "Other hyperlipidemia",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E78.5",
+      "shortDesc": "Hyperlipidemia, unspecified",
+      "longDesc": "Hyperlipidemia, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "E78.79",
+      "shortDesc": "Other disorders of bile acid and cholesterol metabolism",
+      "longDesc": "Other disorders of bile acid and cholesterol metabolism",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "G46.4",
+      "shortDesc": "Cerebellar stroke syndrome",
+      "longDesc": "Cerebellar stroke syndrome",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "I10",
+      "shortDesc": "Essential (primary) hypertension",
+      "longDesc": "Essential (primary) hypertension",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "I15.9",
+      "shortDesc": "Secondary hypertension, unspecified",
+      "longDesc": "Secondary hypertension, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "I25.110",
+      "shortDesc": "Athscl heart disease of native cor art w unstable ang pctrs",
+      "longDesc": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "I45.81",
+      "shortDesc": "Long QT syndrome",
+      "longDesc": "Long QT syndrome",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "J32.0",
+      "shortDesc": "Chronic maxillary sinusitis",
+      "longDesc": "Chronic maxillary sinusitis",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "J32.8",
+      "shortDesc": "Other chronic sinusitis",
+      "longDesc": "Other chronic sinusitis",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K29.40",
+      "shortDesc": "Chronic atrophic gastritis without bleeding",
+      "longDesc": "Chronic atrophic gastritis without bleeding",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K29.50",
+      "shortDesc": "Unspecified chronic gastritis without bleeding",
+      "longDesc": "Unspecified chronic gastritis without bleeding",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K74.60",
+      "shortDesc": "Unspecified cirrhosis of liver",
+      "longDesc": "Unspecified cirrhosis of liver",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K74.69",
+      "shortDesc": "Other cirrhosis of liver",
+      "longDesc": "Other cirrhosis of liver",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K76.9",
+      "shortDesc": "Liver disease, unspecified",
+      "longDesc": "Liver disease, unspecified",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "M05.629",
+      "shortDesc": "Rheu arthritis of unsp elbow w involv of organs and systems",
+      "longDesc": "Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "M05.662",
+      "shortDesc": "Rheu arthritis of left knee w involv of organs and systems",
+      "longDesc": "Rheumatoid arthritis of left knee with involvement of other organs and systems",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "N40.0",
+      "shortDesc": "Benign prostatic hyperplasia without lower urinry tract symp",
+      "longDesc": "Benign prostatic hyperplasia without lower urinary tract symptoms",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "N40.1",
+      "shortDesc": "Benign prostatic hyperplasia with lower urinary tract symp",
+      "longDesc": "Benign prostatic hyperplasia with lower urinary tract symptoms",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "N41.1",
+      "shortDesc": "Chronic prostatitis",
+      "longDesc": "Chronic prostatitis",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "N41.8",
+      "shortDesc": "Other inflammatory diseases of prostate",
+      "longDesc": "Other inflammatory diseases of prostate",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "N42.30",
+      "shortDesc": "Unspecified dysplasia of prostate",
+      "longDesc": "Unspecified dysplasia of prostate",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "N42.31",
+      "shortDesc": "Prostatic intraepithelial neoplasia",
+      "longDesc": "Prostatic intraepithelial neoplasia",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "Z99.2",
+      "shortDesc": "Dependence on renal dialysis",
+      "longDesc": "Dependence on renal dialysis",
+      "benefitGroup": "CHRONIC",
+      "benefitCode": "CH"
+    },
+    {
+      "icdCode": "K01.1",
+      "shortDesc": "Impacted teeth",
+      "longDesc": "Impacted teeth",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "K02.7",
+      "shortDesc": "Dental root caries",
+      "longDesc": "Dental root caries",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "K02.9",
+      "shortDesc": "Dental caries, unspecified",
+      "longDesc": "Dental caries, unspecified",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "K05.01",
+      "shortDesc": "Acute gingivitis, non-plaque induced",
+      "longDesc": "Acute gingivitis, non-plaque induced",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "K05.30",
+      "shortDesc": "Chronic periodontitis, unspecified",
+      "longDesc": "Chronic periodontitis, unspecified",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "K05.4",
+      "shortDesc": "Periodontosis",
+      "longDesc": "Periodontosis",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "K05.5",
+      "shortDesc": "Other periodontal diseases",
+      "longDesc": "Other periodontal diseases",
+      "benefitGroup": "DENTAL",
+      "benefitCode": "DT"
+    },
+    {
+      "icdCode": "A54.84",
+      "shortDesc": "Gonococcal pneumonia",
+      "longDesc": "Gonococcal pneumonia",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "A54.9",
+      "shortDesc": "Gonococcal infection, unspecified",
+      "longDesc": "Gonococcal infection, unspecified",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "A65",
+      "shortDesc": "Nonvenereal syphilis",
+      "longDesc": "Nonvenereal syphilis",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "B20",
+      "shortDesc": "Human immunodeficiency virus [HIV] disease",
+      "longDesc": "Human immunodeficiency virus [HIV] disease",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "E66.9",
+      "shortDesc": "Obesity, unspecified",
+      "longDesc": "Obesity, unspecified",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "L63.9",
+      "shortDesc": "Alopecia areata, unspecified",
+      "longDesc": "Alopecia areata, unspecified",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "L65.8",
+      "shortDesc": "Other specified nonscarring hair loss",
+      "longDesc": "Other specified nonscarring hair loss",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "L70.0",
+      "shortDesc": "Acne vulgaris",
+      "longDesc": "Acne vulgaris",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "Z98.84",
+      "shortDesc": "Bariatric surgery status",
+      "longDesc": "Bariatric surgery status",
+      "benefitGroup": "EXCLUSION",
+      "benefitCode": "EX"
+    },
+    {
+      "icdCode": "O99.019",
+      "shortDesc": "Anemia complicating pregnancy, unspecified trimester",
+      "longDesc": "Anemia complicating pregnancy, unspecified trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "Z34.80",
+      "shortDesc": "Encounter for suprvsn of normal pregnancy, unsp trimester",
+      "longDesc": "Encounter for supervision of other normal pregnancy, unspecified trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "Z34.82",
+      "shortDesc": "Encounter for suprvsn of normal pregnancy, second trimester",
+      "longDesc": "Encounter for supervision of other normal pregnancy, second trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "Z34.83",
+      "shortDesc": "Encounter for suprvsn of normal pregnancy, third trimester",
+      "longDesc": "Encounter for supervision of other normal pregnancy, third trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "O12.00",
+      "shortDesc": "Gestational edema, unspecified trimester",
+      "longDesc": "Gestational edema, unspecified trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "O99.011",
+      "shortDesc": "Anemia complicating pregnancy, first trimester",
+      "longDesc": "Anemia complicating pregnancy, first trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "Z34.81",
+      "shortDesc": "Encounter for suprvsn of normal pregnancy, first trimester",
+      "longDesc": "Encounter for supervision of other normal pregnancy, first trimester",
+      "benefitGroup": "MAT",
+      "benefitCode": "MT"
+    },
+    {
+      "icdCode": "F25.1",
+      "shortDesc": "Schizoaffective disorder, depressive type",
+      "longDesc": "Schizoaffective disorder, depressive type",
+      "benefitGroup": "PSYCH",
+      "benefitCode": "PS"
+    },
+    {
+      "icdCode": "F32.89",
+      "shortDesc": "Other specified depressive episodes",
+      "longDesc": "Other specified depressive episodes",
+      "benefitGroup": "PSYCH",
+      "benefitCode": "PS"
+    },
+    {
+      "icdCode": "F33.1",
+      "shortDesc": "Major depressive disorder, recurrent, moderate",
+      "longDesc": "Major depressive disorder, recurrent, moderate",
+      "benefitGroup": "PSYCH",
+      "benefitCode": "PS"
+    },
+    {
+      "icdCode": "F33.8",
+      "shortDesc": "Other recurrent depressive disorders",
+      "longDesc": "Other recurrent depressive disorders",
+      "benefitGroup": "PSYCH",
+      "benefitCode": "PS"
+    },
+    {
+      "icdCode": "F33.9",
+      "shortDesc": "Major depressive disorder, recurrent, unspecified",
+      "longDesc": "Major depressive disorder, recurrent, unspecified",
+      "benefitGroup": "PSYCH",
+      "benefitCode": "PS"
+    },
+    {
+      "icdCode": "F53.0",
+      "shortDesc": "Postpartum depression",
+      "longDesc": "Postpartum depression",
+      "benefitGroup": "PSYCH",
+      "benefitCode": "PS"
+    }
+  ]
